@@ -1,0 +1,1 @@
+# verzel-store-QA
